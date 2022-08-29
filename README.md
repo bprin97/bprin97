@@ -55,6 +55,9 @@ I'm a Msc Computer Engineeering student with background of Artificial Intelligen
   <a href="Bootstrapt">
     <img src="https://img.shields.io/badge/Bootstrap-9cf?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap Badge"/>
   </a>
+  <a href="JQuery">
+    <img src="https://img.shields.io/badge/JQuery-lemonchiffon?style=for-the-badge&logo=jquery&logoColor=black" alt="JQuery Badge"/>
+  </a>
   <a href="Django">
     <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
   </a>
