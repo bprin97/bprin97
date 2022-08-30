@@ -7,7 +7,7 @@
 I'm a Msc Computer Engineeering student with background of Artificial Intelligence and Robotics. Experienced in Computer Vision , Machine Learning and Artificial Intelligence also in case of Big Data with either C++ and Python, experiences in Full Stack Web Development : HTML5, CSS3, PHP, Javascript, Django. I'm eager to cope with new worldwide challanges.  
 
 <div id="badges" align="center">
-  <a href="https://it.linkedin.com/">
+  <a href="https://www.linkedin.com/in/bruno-principe-87053524a">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:bprincipe235@gmail.com?subject=Email%20from%20GitHub%20User%20By%20Link%20Page%20Profile">
