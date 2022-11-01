@@ -91,6 +91,9 @@ I'm a Msc Computer Engineeering student with background of Artificial Intelligen
   <a href="Numpy">
     <img src="https://img.shields.io/badge/Numpy-seashell?style=for-the-badge&logo=numpy&logoColor=black" alt="Numpy Badge"/>
   </a>
+  <a href="ROS">
+    <img src="https://img.shields.io/badge/ROS-powderblue?style=for-the-badge&logo=ros&logoColor=black" alt="ROS Badge"/>
+  </a>
   <a href="Spark">
     <img src="https://img.shields.io/badge/Apache Spark-teal?style=for-the-badge&logo=apachespark&logoColor=black" alt="Spark Badge"/>
   </a>
