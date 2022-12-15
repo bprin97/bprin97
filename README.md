@@ -97,6 +97,9 @@ I'm a Msc Computer Engineeering student with background of Artificial Intelligen
   <a href="Spark">
     <img src="https://img.shields.io/badge/Apache Spark-teal?style=for-the-badge&logo=apachespark&logoColor=black" alt="Spark Badge"/>
   </a>
+  <a href="Latex">
+    <img src="https://img.shields.io/badge/Latex-mediumvioletred?style=for-the-badge&logo=latex&logoColor=white" alt="Latex Badge"/>
+  </a>
   <a href="Git">
     <img src="https://img.shields.io/badge/Git-silver?style=for-the-badge&logo=git&logoColor=black" alt="Git Badge"/>
   </a>
