@@ -88,6 +88,9 @@ I'm a Msc Computer Engineeering student with background of Artificial Intelligen
   <a href="Open3d">
     <img src="https://img.shields.io/badge/Open3d-aliceblue?style=for-the-badge&logo=open3d&logoColor=black" alt="Open3d Badge"/>
   </a>
+  <a href="Ceres-Solver">
+    <img src="https://img.shields.io/badge/Ceres Solver-lightblue?style=for-the-badge&logo=ceres-solver&logoColor=black" alt="Ceres-Solver Badge"/>
+  </a>
   <a href=Eigen3">
     <img src="https://img.shields.io/badge/Eigen3-aqua?style=for-the-badge&logo=eigen&logoColor=black" alt="Eigen3 Badge"/>
   </a>
