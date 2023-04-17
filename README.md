@@ -85,6 +85,21 @@ I'm a Msc Computer Engineeering student with background of Artificial Intelligen
   <a href="Scikit-learn">
     <img src="https://img.shields.io/badge/Scikit learn-thistle?style=for-the-badge&logo=scikitlearn&logoColor=black" alt="Scikit-learn Badge"/>
   </a>
+  <a href="Open3d">
+    <img src="https://img.shields.io/badge/Open3d-aliceblue?style=for-the-badge&logo=open3d&logoColor=black" alt="Open3d Badge"/>
+  </a>
+  <a href=Eigen3">
+    <img src="https://img.shields.io/badge/Eigen3-aqua?style=for-the-badge&logo=eigen&logoColor=black" alt="Eigen3 Badge"/>
+  </a>
+  <a href=PointCloud">
+    <img src="https://img.shields.io/badge/PointCloud-indingo?style=for-the-badge&logo==pointcloud&logoColor=black" alt="=PointCloud Badge"/>
+  </a>
+  <a href=NLTK">
+    <img src="https://img.shields.io/badge/NLTK-khaki?style=for-the-badge&logo=nltk&logoColor=black" alt="NLTK Badge"/>
+  </a>
+  <a href=Gensim">
+    <img src="https://img.shields.io/badge/Gensim-indianred?style=for-the-badge&logo=gensim&logoColor=black" alt="Gensim Badge"/>
+  </a>
   <a href="Pandas">
     <img src="https://img.shields.io/badge/Pandas-salmon?style=for-the-badge&logo=pandas&logoColor=black" alt="Pandas Badge"/>
   </a>
