@@ -37,6 +37,12 @@ I'm a Msc Computer Engineeering student with background of Artificial Intelligen
   <a href="CMake">
     <img src="https://img.shields.io/badge/CMake-orange?style=for-the-badge&logo=CMake&logoColor=black" alt="CMake Badge"/>
   </a>
+ <a href="TensorRT">
+    <img src="https://img.shields.io/badge/TensorRT-chocolate?style=for-the-badge&logo=Nvidia&logoColor=black" alt="TensorRT Badge"/>
+  </a>
+  <a href="CUDA">
+    <img src="https://img.shields.io/badge/CUDA-aqua?style=for-the-badge&logo=Cuda&logoColor=black" alt="CUDA Badge"/>
+  </a>
   <a href="Java">
     <img src="https://img.shields.io/badge/Java-yellowgreen?style=for-the-badge&logo=java8&logoColor=white" alt="Java Badge"/>
   </a>
@@ -81,6 +87,9 @@ I'm a Msc Computer Engineeering student with background of Artificial Intelligen
   </a>
   <a href="Pytorch">
     <img src="https://img.shields.io/badge/Pytorch-saddlebrown?style=for-the-badge&logo=pytorch&logoColor=black" alt="Pytorch Badge"/>
+  </a>
+  <a href="Hug">
+    <img src="https://img.shields.io/badge/HuggingFace-darkseagreen?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hug Badge"/>
   </a>
   <a href="Scikit-learn">
     <img src="https://img.shields.io/badge/Scikit learn-thistle?style=for-the-badge&logo=scikitlearn&logoColor=black" alt="Scikit-learn Badge"/>
@@ -144,6 +153,9 @@ I'm a Msc Computer Engineeering student with background of Artificial Intelligen
   </a>
    <a href="Windows">
     <img src="https://img.shields.io/badge/Windows-moccasin?style=for-the-badge&logo=windows&logoColor=black" alt="Windows Badge"/>
+  </a>
+  <a href="Nvidia">
+    <img src="https://img.shields.io/badge/Nvidia Jetson-darkgoldenrod ?style=for-the-badge&logo=Nvidia&logoColor=white" alt="Nvidia Badge"/>
   </a>
 </div>
 
