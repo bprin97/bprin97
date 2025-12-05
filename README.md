@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Msc Computer Engineeering student with background of Artificial Intelligence and Robotics. Experienced in Computer Vision, Natural Language Processing , Machine Learning and Artificial Intelligence also in case of Big Data with either C++ and Python, experiences in Full Stack Web Development : HTML5, CSS3, PHP, Javascript, Django. I'm eager to cope with new worldwide challanges.  
+I'm a Graduated Machine Learning Engineeering with background of Artificial Intelligence and Robotics. Experienced in Computer Vision, Natural Language Processing , Machine Learning and Artificial Intelligence also in case of Big Data with either C++ and Python, experiences in Full Stack Web Development : HTML5, CSS3, PHP, Javascript, Django. I'm eager to cope with new worldwide challanges.  
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/bruno-principe-87053524a">
@@ -165,5 +165,5 @@ I'm a Msc Computer Engineeering student with background of Artificial Intelligen
 ### :book: Currently Learning :
 
 - :robot: Artificial Intelligence and Robotics
-- :telescope: Reinforcement and Deep Learning
+- :telescope: Reinforcement Learning, MLOps, RAG, AWS, GCP and Azure
 - :tongue: Japanese and Chinese languages , culture and costume
