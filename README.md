@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Graduated Machine Learning Engineeering with background of Artificial Intelligence and Robotics. Experienced in Computer Vision, Natural Language Processing , Machine Learning and Artificial Intelligence also in case of Big Data with either C++ and Python, experiences in Full Stack Web Development : HTML5, CSS3, PHP, Javascript, Django. I'm eager to cope with new worldwide challanges.  
+I'm a Graduated Machine Learning Engineer with background of Artificial Intelligence and Robotics. Experienced in Computer Vision, Natural Language Processing , Machine Learning and Artificial Intelligence also in case of Big Data with either C++ and Python, experiences in Full Stack Web Development : HTML5, CSS3, PHP, Javascript, Django. I'm eager to cope with new worldwide challanges.  
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/bruno-principe-87053524a">
