@@ -13,7 +13,7 @@ I'm a Graduated Machine Learning Engineeering with background of Artificial Inte
   <a href="mailto:bprincipe235@gmail.com?subject=Email%20from%20GitHub%20User%20By%20Link%20Page%20Profile">
      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=&logoColor=white" alt="Portfolio Badge"/>
+  <!-- <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=&logoColor=white" alt="Portfolio Badge"/> -->
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=bprin97&style=flat-square&color=blue" alt=""/>
@@ -159,11 +159,10 @@ I'm a Graduated Machine Learning Engineeering with background of Artificial Inte
   </a>
 </div>
 
-### :fire: My GitHub Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bprin97&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bprin97&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### :fire: My GitHub Stats :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bprin97&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bprin97&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### :book: Currently Learning :
 
-- :robot: Artificial Intelligence and Robotics
 - :telescope: Reinforcement Learning, MLOps, RAG, AWS, GCP and Azure
-- :tongue: Japanese and Chinese languages , culture and costume
+- :tongue: Japanese and Chinese languages, culture and costume
