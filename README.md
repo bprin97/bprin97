@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Graduated Machine Learning Engineer with background of Artificial Intelligence and Robotics. Experienced in Computer Vision, Natural Language Processing , Machine Learning and Artificial Intelligence also in case of Big Data with either C++ and Python, experiences in Full Stack Web Development : HTML5, CSS3, PHP, Javascript, Django. I'm eager to cope with new worldwide challanges.  
+I'm a Machine Learning Engineer with background of Artificial Intelligence and Robotics. Experienced in Computer Vision, Natural Language Processing , Machine Learning and Artificial Intelligence also in case of Big Data with either C++ and Python, experiences in Full Stack Web Development : HTML5, CSS3, PHP, Javascript, Django. I'm eager to cope with new worldwide challanges.  
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/bruno-principe-87053524a">
@@ -41,7 +41,7 @@ I'm a Graduated Machine Learning Engineer with background of Artificial Intellig
     <img src="https://img.shields.io/badge/TensorRT-chocolate?style=for-the-badge&logo=Nvidia&logoColor=black" alt="TensorRT Badge"/>
   </a>
   <a href="CUDA">
-    <img src="https://img.shields.io/badge/CUDA-aqua?style=for-the-badge&logo=Cuda&logoColor=black" alt="CUDA Badge"/>
+    <img src="https://img.shields.io/badge/CUDA-aqua?style=for-the-badge&logo=cuda&logoColor=black" alt="CUDA Badge"/>
   </a>
   <a href="Java">
     <img src="https://img.shields.io/badge/Java-yellowgreen?style=for-the-badge&logo=java8&logoColor=white" alt="Java Badge"/>
@@ -147,6 +147,15 @@ I'm a Graduated Machine Learning Engineer with background of Artificial Intellig
   </a>
   <a href="Bash">
     <img src="https://img.shields.io/badge/Bash-navy?style=for-the-badge&logo=commandsprompt&logoColor=white" alt="Bash Badge"/>
+  </a>
+  <a href="Docker">
+    <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+  </a>
+  <a href="Ollama">
+    <img src="https://img.shields.io/badge/Ollama-red?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama Badge"/>
+  </a>
+  <a href="MLFlow">
+    <img src="https://img.shields.io/badge/MLFlow-black?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLFlow Badge"/>
   </a>
   <a href="Apache">
     <img src="https://img.shields.io/badge/Apache-mediumturquoise?style=for-the-badge&logo=apache&logoColor=black" alt="Apache Badge"/>
